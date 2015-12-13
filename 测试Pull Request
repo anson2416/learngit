@@ -1,0 +1,5 @@
+#学习GibHub#
+通过Folk和Clone一个测试用仓库（https://github.com/michaelliao/learngit）
+然后New File添加一个简单的txt文件作为实际项目的修改
+修改过后的代码可以通过Pull Request发送给原作者
+原作者根据实际情况接受/拒绝该请求
